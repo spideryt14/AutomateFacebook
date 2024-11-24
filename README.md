@@ -1,25 +1,4 @@
-How too automate facebook login page 
-#facebook
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Automating the Facebook login or registration page for a script or bot can be done using tools like Selenium or Puppeteer, which allow programmatic interaction with web pages. However, it's important to understand the terms of service of Facebook. Automating actions such as login or registration on Facebook may violate their policies, especially if used for spammy or unethical behavior, so be sure you comply with their rules.
 package com.fb;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
